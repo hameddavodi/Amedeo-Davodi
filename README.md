@@ -1,6 +1,6 @@
 ### About Me :
 
-Hi ! My name is Amedeo. I am an ex Data Engineer, but current Data Scientist living in Milan, Italy.
+Hi ! I am an ex Data Engineer, but current Data Scientist living in Milan, Italy.
 
 - 🔭 For more information please refer to my linkedin account
 
