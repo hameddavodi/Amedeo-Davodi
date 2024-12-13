@@ -11,7 +11,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow"  width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kakfa"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django"  width="40" height="40"/>&nbsp;
